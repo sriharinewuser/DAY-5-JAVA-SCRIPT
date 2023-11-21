@@ -19,7 +19,7 @@ for (const key in person1) {
 
 //for of
 const obj = {
-  name: 'John Doe',
+  name: 'Joseph',
   age: 30,
   occupation: 'Software Engineer'
 };
